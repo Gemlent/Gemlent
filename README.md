@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+I am a student that is studying in China.
+Hobby：飞盘，Running...
+希望能在Github上不断成长~
 <!--
 **Gemlent/Gemlent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
